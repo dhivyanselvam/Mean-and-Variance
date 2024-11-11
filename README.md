@@ -48,10 +48,22 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
+![Screenshot 2024-11-11 092034](https://github.com/user-attachments/assets/9c3a5f50-0d48-4d0f-ba95-6bc7c27c1414)
+
 
 
 
 # Output : 
+1 2 3 4 5  
+
+The Mean arrivial rate is 11.000 
+
+The Variance of arrival from feeder is -110.000 
+
+The Standard devidation of arrival from feeder is NAN 
+
+<ipython-input-2-3679680d91e4>:19: RuntimeWarning: invalid value encountered in sqrt
+  SD=np.sqrt(var)
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
