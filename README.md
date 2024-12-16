@@ -50,7 +50,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 
-![Screenshot (8)](https://github.com/user-attachments/assets/30eae2a4-508e-43b9-b73a-f96e709d7f4c)
+![Screenshot 2024-12-16 093748](https://github.com/user-attachments/assets/44eb1ad7-e2b9-44c0-a814-29bff0834e94)
 
 
 # Output : 
