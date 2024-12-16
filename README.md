@@ -1,6 +1,5 @@
 #  Mean and variance of a discrete  distribution
-# Date :10.10.2024
-
+# Date:10.10.2024
 
 # Aim : 
 
@@ -49,8 +48,9 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
+![Screenshot 2024-12-16 093748](https://github.com/user-attachments/assets/37d54f77-4229-4311-b4cb-3a55e52835e3)
 
-![Screenshot 2024-12-16 093748](https://github.com/user-attachments/assets/44eb1ad7-e2b9-44c0-a814-29bff0834e94)
+
 
 
 # Output : 
